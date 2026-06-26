@@ -5,7 +5,7 @@ compatibility: Node.js 22+, npm, Git, MariaDB
 license: MIT
 metadata:
   author: Tawin Nacasit
-  version: "3.0.1"
+  version: "4.0.0"
 ---
 
 # Project Onboarding Skill
